@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SedolAPI", "SedolAPI\SedolAPI.csproj", "{A3168301-818F-4E60-A181-5161A723259C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedolAPI.Tests", "SedolAPI.Tests\SedolAPI.Tests.csproj", "{01AA5BF2-743E-4C51-B7BC-0193AA08A538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3168301-818F-4E60-A181-5161A723259C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3168301-818F-4E60-A181-5161A723259C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3168301-818F-4E60-A181-5161A723259C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3168301-818F-4E60-A181-5161A723259C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AA5BF2-743E-4C51-B7BC-0193AA08A538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AA5BF2-743E-4C51-B7BC-0193AA08A538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AA5BF2-743E-4C51-B7BC-0193AA08A538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AA5BF2-743E-4C51-B7BC-0193AA08A538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44DFBF25-234F-4BA9-8772-E964B6B083E4}
+	EndGlobalSection
+EndGlobal
